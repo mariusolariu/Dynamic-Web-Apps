@@ -10,6 +10,7 @@
 	</head>
 
 	<body>
+		<h1> Just a simple exemple </h1>			
 		<?php
 			$lotr = "When Mr. Baggins of Bag End announced that he would shortly be celebrating his eleventy-first birthday with a party of special magnificence, there was much talk and excitement in Hobbiton.";
 
